@@ -4,3 +4,6 @@ a small command-line program that reads a list of marks and reports statistics a
 
 laboratory project for project Management (with git), 1BCSL307A.
 
+## Usage
+    cp .env.example .env
+    python3 app.py
