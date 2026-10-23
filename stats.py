@@ -6,4 +6,6 @@ def average (marks):
 
 def higest(marks):
     return max(marks)
+def lowest(marks):
+    return min(marks)
 
